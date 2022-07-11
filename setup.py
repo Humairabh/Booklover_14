@@ -7,4 +7,4 @@ setup(name='package',
       author='Humaira Halim',
       author_email='hbh4bv@virginia.com',
       license='MIT',
-      packages=['demo'])
+      packages=['package'])
